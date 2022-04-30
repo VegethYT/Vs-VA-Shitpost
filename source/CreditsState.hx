@@ -86,7 +86,7 @@ class CreditsState extends MusicBeatState
 			['VegethYT', 			'vegethyt', 		'Co-Director and Coder',									'https://www.youtube.com/channel/UC5h7tAHmhpSAus09DIus6YA', '333EBE'],
 			['Willy', 				'willy', 			'Main Artist',												'https://www.youtube.com/channel/UC3MPypwE6tgslWsUtdAI3Ww', 'DACBFF'],
 			['Pambi', 				'pambi', 			'Main Animator',											'https://www.youtube.com/channel/UCT-O8O_mwkRE0TNlkh6l8Kg', '585C66'],
-			['Kaiak', 				'kaiak', 			'Main Composer',											'https://www.youtube.com/channel/UCT-O8O_mwkRE0TNlkh6l8Kg', '464557'],
+			['Kaiak', 				'kaiak', 			'Main Composer',											'https://www.youtube.com/channel/UCjaZS3CyHNN3gahUG3crilA', '464557'],
 			[''],
 			['Special Thanks'],
 			['FreshTH', 			'freshth',			'Menu Background Artist', 									'https://www.youtube.com/channel/UCPzsyjqCPhi7ADP1FYR2bAw', '00FFFF'],
